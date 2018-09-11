@@ -3,7 +3,7 @@ package dshelp
 import (
 	"testing"
 
-	cid "github.com/ipfs/go-cid"
+	cid "github.com/dms3-fs/go-cid"
 )
 
 func TestKey(t *testing.T) {

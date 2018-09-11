@@ -1,10 +1,10 @@
 // Package dshelp provides utilities for parsing and creating
-// datastore keys used by go-ipfs
+// datastore keys used by go-dms3-fs
 package dshelp
 
 import (
-	cid "github.com/ipfs/go-cid"
-	"github.com/ipfs/go-datastore"
+	cid "github.com/dms3-fs/go-cid"
+	"github.com/dms3-fs/go-datastore"
 	"github.com/whyrusleeping/base32"
 )
 
